@@ -1,0 +1,12 @@
+LIBRARY "D3DCode"
+
+EXPORTS
+
+SetSize
+SetAlpha
+SetNumDesiredSamples
+SetAdapter
+
+GetBackBufferNoRef
+Render
+Destroy
